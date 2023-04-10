@@ -67,3 +67,6 @@ for test_case in range(1, T + 1):
                 result+=__m
 
     print("#{} {}".format(test_case,result))
+
+
+    # print("{} {}".format(변수, 변수))
