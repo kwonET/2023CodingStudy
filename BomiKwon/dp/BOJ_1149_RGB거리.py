@@ -1,3 +1,5 @@
+# 0427 
+
 n=int(input())
 rgb_house=[]
 for _ in range(n):
